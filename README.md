@@ -1,2 +1,3 @@
 # CapacitatedVehicleRouting-
-Capacitated Vehicle Routing (CVR) using Ant Colony Algorithm
+Solving Capacitated Vehicle Routing (CVR) problem using Ant Colony Algorithm
+"bio inspired computing"
